@@ -1,1 +1,1 @@
-# Internship-Final-Project
+# Email Spam Classifier project
